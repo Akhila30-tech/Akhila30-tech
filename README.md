@@ -55,10 +55,22 @@
 
 ---
 
-## 🐍 Contribution Graph Animation
+## 📩 Let’s Connect
 
-![snake gif](https://github.com/Akhila30-tech/Akhila30-tech/blob/output/github-contribution-grid-snake.svg)
+💬 DM me on [LinkedIn](https://www.linkedin.com/in/akhila-patlolla-02b8891b1/)  
+📧 Email me: akhilapatil2000@gmail.com  
+💻 Check out my work on(https://github.com/Akhila30-tech)  
 
-> To enable this, create a GitHub Action workflow — I can help you set that up too.
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/akhila-patlolla-02b8891b1/" target="_blank">
+    <img src="https://img.shields.io/badge/💬%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:akhilapatil2000@gmail.com">
+    <img src="https://img.shields.io/badge/%20Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Akhila30-tech" target="_blank">
+    <img src="https://img.shields.io/badge/%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
